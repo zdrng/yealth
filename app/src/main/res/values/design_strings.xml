@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_access_needed">Allow read access to see your steps.</string>
+    <string name="steps_unit">steps</string>
+    <string name="daily_chart_note">Each bar is a Health Connect daily total. A dash means no total was provided.</string>
+    <string name="daily_chart_failed">Daily totals could not be loaded. Refresh to try again.</string>
+    <string name="sample_bar_note">Each bar is one sample record, not a daily total. Exact intervals and sources are listed below.</string>
+    <string name="session_hours_minutes">%1$d h %2$d min · session</string>
+    <string name="session_minutes">%1$d min · session</string>
+    <string name="individual_record_time">Individual record · %1$s</string>
+    <string name="summary_unavailable_short">Summary unavailable</string>
+</resources>

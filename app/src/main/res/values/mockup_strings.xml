@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_categories_share">Choose categories to share</string>
+    <string name="all_categories_shared">All categories shared</string>
+    <string name="some_categories_shared">Some categories shared</string>
+    <string name="access_short_body">Yealth reads only the data you allow.</string>
+</resources>

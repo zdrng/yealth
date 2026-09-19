@@ -1,0 +1,15 @@
+<resources>
+    <string name="no_summary_value">No summary available</string>
+    <string name="more_records_available">Browse records</string>
+    <string name="provider_average">Health Connect average</string>
+    <plurals name="overview_partial_count"><item quantity="one">%1$d+ records · Latest record</item><item quantity="other">%1$d+ records · Latest record</item></plurals>
+    <plurals name="overview_complete_count"><item quantity="one">%1$d record in range</item><item quantity="other">%1$d records in range</item></plurals>
+    <string name="selected_date_empty">No records in this date range</string>
+    <string name="recent_portion_short">Recent accessible portion</string>
+    <string name="unsupported_feature">Unavailable on this device</string>
+    <string name="route_consent_title">Exercise route</string>
+    <string name="route_consent_body">This session has a route that needs separate consent. Health Connect will ask before sharing its recorded locations.</string>
+    <string name="request_route">Review route access</string>
+    <string name="route_cancelled">Route was not shared. You can try again.</string>
+    <string name="route_failed">The route could not be opened. Please try again.</string>
+</resources>

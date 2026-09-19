@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="latest_record">Latest individual record</string>
+    <string name="metric_session_duration">Session interval length</string>
+    <string name="metric_blood_pressure_pair">Systolic / diastolic</string>
+    <string name="metric_baseline_temperature">Baseline temperature</string>
+    <string name="metric_latest_temperature_delta">Latest temperature delta</string>
+    <string name="metric_latest_sample">Latest sample in this record</string>
+    <string name="metric_energy">Energy</string>
+    <string name="metric_protein">Protein</string>
+    <string name="metric_carbohydrate">Total carbohydrate</string>
+    <string name="metric_fat">Total fat</string>
+    <string name="metric_sample_time">Sample recorded %1$s</string>
+    <string name="metric_record_interval">%1$s – %2$s</string>
+</resources>
